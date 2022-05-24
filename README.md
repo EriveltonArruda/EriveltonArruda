@@ -15,5 +15,3 @@
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whiteB"/>
 </div><br/>
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoasatravés da programação.
